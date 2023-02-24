@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
-remote-theme: jirrian/jekyll-theme-image-grid
+remote_theme: jirrian/jekyll-theme-image-grid@main
 
 # generate social links in footer
 social_links:
